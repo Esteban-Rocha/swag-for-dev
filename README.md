@@ -11,7 +11,7 @@ Feel free to send a PR! :smile:
 - [Alexa](#alexa)
 - [Codeship](#codeship)
 - [devRant](#devrant)
-- [Digital Ocean](#digital-ocean)
+- [Digital Ocean](#digital-ocean-) ![](https://img.shields.io/badge/status-ended-red.svg)
 - [Google Assistant](#google-assistant)
 - [Hacktoberfest](#hacktoberfest)
 - [npm](#npm)
@@ -20,7 +20,7 @@ Feel free to send a PR! :smile:
 
 - Publish a skill, get a hoodie (varies by country) and an Echo Dot (if 100 unique customers use your skill in its first 30 days of publication)! [Reference](https://developer.amazon.com/alexa-skills-kit/alexa-developer-skill-promotion)
 
-![](https://images-na.ssl-images-amazon.com/images/G/01/moile-apps/dex/alexa/Page-hoodie_feb-2017._CB534995161_.png)
+![](https://images-na.ssl-images-amazon.com/images/G/01/mobile-apps/dex/alexa/alexa-skills-kit/ASM0761-Dev-LP-Goodiepage-UK-March._CB501585903_.png)
 
 ## Codeship
 
@@ -34,7 +34,7 @@ Feel free to send a PR! :smile:
 
 ![](https://devrant.com/static/devrant/img/stickers-collection3.png)
 
-## Digital Ocean
+## Digital Ocean ![](https://img.shields.io/badge/status-ended-red.svg)
 
 - Completing this short survey will get you a Sammy sticker pack: [http://do.co/currents-survey](http://do.co/currents-survey)
 
@@ -42,7 +42,7 @@ Feel free to send a PR! :smile:
 
 ## Google Assistant
 
-- Make an app for the Google Assistant available to users, get an exclusive Google Assistant t-shirt and a Google Home (if a certain amount of users engage with it)! [Reference](https://developers.google.com/actions/community/overview)
+- Make an app for the Google Assistant available to users, get an exclusive Google Assistant t-shirt and a Google Home (if a certain number of users engage with it)! [Reference](https://developers.google.com/actions/community/overview)
 
 ![](https://i2.wp.com/radthemaker.com/wp-content/uploads/2017/11/My-Google-Assistant-T-Shirt.jpg)
 
